@@ -20,7 +20,7 @@ public Employee (Integer id, String lastName, String email, Integer gender,Depar
     this.email = email;
     this.gender = gender;
     this.department = department;
-    this.birthDate = new Date();
+    this.birth = new Date();
 
 }
 }
